@@ -1,4 +1,4 @@
-# Project : React Todo with Local Storage
+# Project : React Todo Application with Local Storage
 
 Project Link : https://parikshitgurjar.github.io/my_react_todo_app/
 
