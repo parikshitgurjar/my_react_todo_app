@@ -14,7 +14,7 @@ function App()
 return(
             <div className='wrapper'>
 
-                  <h1> "Todo App" using REACT HOOKS and LOCAL STORAGE </h1>
+                  <h1> "Todo App" using REACT and LOCAL STORAGE </h1>
                   
                   <div className='form-and-todo-box'>
                         <Form />      
